@@ -28,6 +28,7 @@
     </head>
     <body>
         <div>
+            <h2>Get started</h2>
             <?php
                 require 'header.php';
             ?>
